@@ -14,7 +14,8 @@ The Application main functionalities are :
 
 ### Layout
 
-![Tux, the Linux mascot](DOCKER_app1.png)
+![Tux, the Linux mascot](https://github.com/ronaofer/FinalProject_GUI-for-Docker/screenShots/DOCKER_app_layout.png?raw=true)
+
 
 ### Error handling
 

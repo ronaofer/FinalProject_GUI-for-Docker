@@ -8,9 +8,9 @@ As part of an assignment, I was asked to create an Application that integrates w
 
 The Application main functionalities are :
  
-1.      download\delete images
-2.      create\run\stop\delete containers
-3.      view all images and containers
+- download\delete images
+- create\run\stop\delete containers
+- view all images and containers
 
 ### Layout
 

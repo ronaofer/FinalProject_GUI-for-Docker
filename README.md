@@ -37,7 +37,7 @@ When the download is completed, the image will be displayed within the Image Lis
 
 ### Create container
 
-![Tux, the Linux mascot](create_cont.png)
+![](screenShots/create_cont.png)
 
 In order to create a container, choose an image from the "Image List"; do so by using the computer mouse (You can scroll between the items in the list using the keyboard).
 After an image is chosen, click on the "Create" button.
@@ -45,7 +45,7 @@ A message allowing the user to choose a name for the container will pop up. In c
 
 ### Delete image
 
-![Tux, the Linux mascot](delete_image.png)
+![](screenShots/delete_image.png)
 
 In order to delete an image, choose an image from the "Image List"; do so by using the computer mouse (You can scroll between the items in the list using the keyboard).
 
@@ -60,7 +60,7 @@ According to the choice made by the user, the container status will change.
 
 ### Delete container
 
-![Tux, the Linux mascot](delete_cont.png)
+![](screenShots/delete_cont.png)
 
 After selecting the relevant container from the list, the user can then click on the "Delete" BUTTON to delete stopped containers.
 Clicking on the "Delete" button will pop up a message for reverifying the user's wishes to delete the selected container. In case the user clicked on the "Ok" BUTTON the container will then be removed from the container list.

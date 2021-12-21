@@ -69,7 +69,7 @@ Clicking on the "Delete" button will pop up a message for reverifying the user's
 
 ### Requirements
 #### python installation
-![Installing Python 3 on Linux](https://docs.python-guide.org/starting/install3/linux/)
+[Installing Python 3 on Linux](https://docs.python-guide.org/starting/install3/linux/)
 #### docker instalation 
 [How to Install Docker on Ubuntu](https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
 

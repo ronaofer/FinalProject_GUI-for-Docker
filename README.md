@@ -68,5 +68,12 @@ Clicking on the "Delete" button will pop up a message for reverifying the user's
 ``If trying to delete a running container, please note that the docker service won't allow it (an error will be displayed).``
 
 ### Requirements
+#### python installation
+![Linux](https://user-images.githubusercontent.com/77406106/146967512-2c86f04e-ba6e-4030-a261-d70145fc76be.png)
+#### docker instalation 
+[Ubuntu](https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
+
+
+### Reference
 * [Docker](https://docker-py.readthedocs.io/en/stable/)
 

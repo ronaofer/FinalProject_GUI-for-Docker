@@ -70,10 +70,10 @@ Clicking on the "Delete" button will pop up a message for reverifying the user's
 ### Requirements
 ##### 1. python installation
 [Installing Python 3 on Linux](https://docs.python-guide.org/starting/install3/linux/)
-##### 2. docker instalation 
+##### 2. docker installation 
 [How to Install Docker on Ubuntu](https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
+##### 3. Docker SDK for Python
+[Docker SDK for Python](https://docker-py.readthedocs.io/en/stable/)
 
 
-### Reference
-* [Docker](https://docker-py.readthedocs.io/en/stable/)
 

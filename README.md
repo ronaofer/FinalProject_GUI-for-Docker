@@ -68,12 +68,16 @@ Clicking on the "Delete" button will pop up a message for reverifying the user's
 ``If trying to delete a running container, please note that the docker service won't allow it (an error will be displayed).``
 
 ### Requirements
+a. Before running the application verify that you have the following installed:
 ##### 1. python installation
 [Installing Python 3 on Linux](https://docs.python-guide.org/starting/install3/linux/)
 ##### 2. docker installation 
 [How to Install Docker on Ubuntu](https://www.simplilearn.com/tutorials/docker-tutorial/how-to-install-docker-on-ubuntu)
 ##### 3. Docker SDK for Python
 [Docker SDK for Python](https://docker-py.readthedocs.io/en/stable/)
+
+b. after completing the installations use the following command in the terminal in the project directory:
+``` python3 desktop.py ```
 
 
 

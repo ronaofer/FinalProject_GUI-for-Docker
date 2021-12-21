@@ -77,6 +77,7 @@ a. Before running the application verify that you have the following installed:
 [Docker SDK for Python](https://docker-py.readthedocs.io/en/stable/)
 
 b. after completing the installations use the following command in the terminal in the project directory:
+
 ``` python3 DockrDeskTop.py ```
 
 
